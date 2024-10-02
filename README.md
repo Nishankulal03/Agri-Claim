@@ -34,7 +34,7 @@
   <li>Set up WAMP Server on your local machine.</li>
   <li>Place the cloned project folder in the <strong>www</strong> directory of WAMP.</li>
   <li>Access the project through your web browser at <code>http://localhost/[project-folder-name]</code>.</li>
-  <li>Ensure MySQL is running, and import the database schema from <code>database.sql</code> if available.</li>
+  <li>Ensure MySQL is running, and import the database schema from <code>farmers_portal.sql.sql</code> </li>
 </ol>
 
 <h2>Preview 📸</h2>
@@ -43,5 +43,5 @@
 
 <h2>Contact 📬</h2>
 <p>
-  For any questions or collaboration opportunities, feel free to reach out through the contact form on the website or via my social media profiles.
+  For any questions or collaboration opportunities, feel free to reach out through the contact form on the <a href="https://portfolio-nishan.vercel.app/"> portfolio website </a> or via my social media profiles.
 </p>
